@@ -1,5 +1,7 @@
 
-## Hello World! Pedro Freitas ^-^ 
+## Hello World! Pedro Freitas ^-^
+
+---
 ### Desenvolvedor Full Stack Java | Spring Boot | React
 
 <div align="center">
@@ -11,20 +13,17 @@ Desenvolvo aplicações focadas em microsserviços com APIs REST documentadas co
 Experiente no front-end com React com Typescript, HTML e CSS. Crio algumas interfaces modernas e responsivas, conectando-as com  APIs REST para entregar aplicações completas e funcionais.
 
 
----
 ### Hard Skills  ★
+
+---
 * **Back-end:** Java, Spring Boot, RabbitMQ, Docker, APIs REST, Swagger, H2, MySQL, PostgreSQL.
 * **Front-end:** HTML, CSS, React, TypeScript, Axios.
 
-### Projects ☕
-* **[Microserviços - Orquestrador Pedido/Compra](https://github.com/FreitassPedro/Projeto-padrao-saga-orquestrado?tab=readme-ov-file)**
-* **[Venda Ingresso Festa - Ingresso](https://github.com/FreitassPedro/Sistema-TFC)**
-
 ### Currently Learning:
-* Ciência da Computação 
-* Autodidata ^^
+* `Ciência da Computação`
+* `Autodidata ^^`
 
-#### Learning 
+#### 📚 Working in  
 * Desenvolvimento web moderno
 * Arquitetura de microsserviços
 * Soluções de escalabilidade
